@@ -1,0 +1,26 @@
+.btn-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+    padding-top: 42px;
+
+}
+.button-1{
+    border:2px solid #5bfc10;
+    padding:4px 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.button-2{
+    border:2px solid rgb(30, 195, 30);
+    padding:4px 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.button-3{
+    border:2px solid #6ae010;
+    padding:4px 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

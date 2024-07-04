@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.star{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top:80px;
+    gap:8px;    
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: -70px;
+}
+.active{
+    color:blue;
+}
+.inactive{
+    color:black
+}
